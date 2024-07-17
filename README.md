@@ -1,6 +1,6 @@
 # MangaVerse API
 
-The **MangaVerse API** is your ultimate gateway to a vast collection of manga data, designed for developers and enthusiasts who want to explore, analyze, and integrate manga information into their applications. With a user-friendly interface and a comprehensive database, you can access details about titles, authors, genres, chapters, and more.
+The **MangaVerse API** is your ultimate gateway to a vast collection of manga data, designed for developers and enthusiasts who want to explore, analyze, and integrate manga information into their applications. With a user-friendly interface and a comprehensive database, you can access details about titles, authors, genres, chapters, and more. This API is listed on [RapidApi](https://rapidapi.com/belchiorarkad-FqvHs2EDOtP/api/mangaverse-api1) 
 
 ## Getting Started
 
